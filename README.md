@@ -1,6 +1,6 @@
 # InstaLogin
 
-Simple android application for login with Instagram Edit
+Simple android application for login with Instagram.
 
 Just replace these strings in CONSTANTS, by your own
 ```
